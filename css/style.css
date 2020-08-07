@@ -556,7 +556,14 @@ body {
  .search {
    display: none;
  } 
+ .tag-icon {
+  padding-right: 0;
+ }
  .button-input {
-   display: none;
+  display: none;
+ }
+ .create-post-footer {
+  display: flex;
+  justify-content: center;
  }
 }
