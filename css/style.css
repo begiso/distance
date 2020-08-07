@@ -556,4 +556,6 @@ body {
  .search {
    display: none;
  } 
+ .button-input {
+   display: none;
 }
